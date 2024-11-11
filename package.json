@@ -10,8 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@babylonjs/core": "^7.33.0",
+    "@babylonjs/gui": "^7.33.0",
+    "babylonjs": "^7.33.0",
+    "babylonjs-gui": "^7.33.0",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-three-fiber": "^6.0.13",
+    "three": "^0.170.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.14.0",
